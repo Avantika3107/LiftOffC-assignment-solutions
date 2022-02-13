@@ -14,5 +14,8 @@ void main()
     case 1:
     printf("%d is an ODD number\n",n); 
     break; 
+    default:
+    printf("invalid input")
+    break:
     }
  }
