@@ -30,6 +30,7 @@ void main()
     printf("%d%%d=%d\n",x, y, x%y);
     break; 
     
+    default:
     printf("Input is not valid");
   }
 }
