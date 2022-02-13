@@ -15,6 +15,11 @@ int main()
 
     printf("\nEnter your registration number:\n");
     scanf("%d",&e);
+     
+    printf("Your name is :%s\n",n);
+    printf("Your branch is:%s\n",b);
+    printf("Your hobbies are:%s\n",h);
+    printf("Your registration number is:%s\n",e);
     
     return 0;
 }
