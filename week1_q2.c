@@ -9,11 +9,11 @@ int main()
  {
     printf("%d is maximum",a); 
  }
-     if(b>a)
+     else if(b>a)
   {
     printf("%d is maximum",b); 
   }
-    if(a==b) 
+    else
     {
     printf("Both are equal");
     }
